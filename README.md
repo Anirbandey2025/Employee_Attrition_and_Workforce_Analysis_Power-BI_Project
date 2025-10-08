@@ -1,6 +1,4 @@
-# Employee_Attrition_and_Workforce_Analysis_Power-BI_Project
-
-Employee Attrition & Workforce Analysis Dashboard | Power BI Project
+# Employee Attrition & Workforce Analysis Dashboard | Power BI Project
 
 
 Objective: Enable HR leaders to identify high-risk attrition segments, monitor engagement, and design targeted retention strategies.
